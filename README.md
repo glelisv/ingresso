@@ -47,7 +47,7 @@ ingresso/
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seuusuario/ingresso.git
+    git clone https://github.com/glelisv/ingresso.git
     ```
 2. Abra o arquivo `index.html` em qualquer navegador para acessar a simulação de compra de ingressos.
 
